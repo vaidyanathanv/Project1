@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaidyanathanv
+- 👋 Hi, I’m @vaidyanathanvarun
 - 👀 I’m interested in IT Security Management, Information Security Management and Cyber Security related topics
 - 🌱 I’m currently learning ...Identity and Access Management
 - 💞️ I’m looking to collaborate on ...Cyber Security Projects
